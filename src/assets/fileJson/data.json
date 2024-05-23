@@ -1,0 +1,494 @@
+[
+    {
+        "question_text": "What is the capital of France?",
+        "option_a": "Berlin",
+        "option_b": "Paris",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the largest planet in our solar system?",
+        "option_a": "Jupiter",
+        "option_b": "Saturn",
+        "answer": "A"
+    },
+    {
+        "question_text": "Which element has the chemical symbol 'O'?",
+        "option_a": "Oxygen",
+        "option_b": "Gold",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the smallest prime number?",
+        "option_a": "1",
+        "option_b": "2",
+        "answer": "B"
+    },
+    {
+        "question_text": "In what year did the Titanic sink?",
+        "option_a": "1912",
+        "option_b": "1905",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who wrote 'To Kill a Mockingbird'?",
+        "option_a": "Harper Lee",
+        "option_b": "Mark Twain",
+        "answer": "A"
+    },
+    {
+        "question_text": "Which planet is known as the Red Planet?",
+        "option_a": "Venus",
+        "option_b": "Mars",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the square root of 64?",
+        "option_a": "8",
+        "option_b": "6",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who painted the Mona Lisa?",
+        "option_a": "Vincent van Gogh",
+        "option_b": "Leonardo da Vinci",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the main ingredient in guacamole?",
+        "option_a": "Avocado",
+        "option_b": "Tomato",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the hardest natural substance on Earth?",
+        "option_a": "Diamond",
+        "option_b": "Gold",
+        "answer": "A"
+    },
+    {
+        "question_text": "Which ocean is the largest?",
+        "option_a": "Atlantic Ocean",
+        "option_b": "Pacific Ocean",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the freezing point of water?",
+        "option_a": "0 degrees Celsius",
+        "option_b": "100 degrees Celsius",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who was the first man to walk on the moon?",
+        "option_a": "Buzz Aldrin",
+        "option_b": "Neil Armstrong",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the largest mammal?",
+        "option_a": "Elephant",
+        "option_b": "Blue Whale",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the capital of Japan?",
+        "option_a": "Beijing",
+        "option_b": "Tokyo",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which gas do plants absorb from the atmosphere?",
+        "option_a": "Carbon dioxide",
+        "option_b": "Oxygen",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who wrote '1984'?",
+        "option_a": "George Orwell",
+        "option_b": "Aldous Huxley",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the boiling point of water?",
+        "option_a": "100 degrees Celsius",
+        "option_b": "0 degrees Celsius",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the capital of Canada?",
+        "option_a": "Toronto",
+        "option_b": "Ottawa",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the largest bone in the human body?",
+        "option_a": "Femur",
+        "option_b": "Skull",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who discovered penicillin?",
+        "option_a": "Alexander Fleming",
+        "option_b": "Louis Pasteur",
+        "answer": "A"
+    },
+    {
+        "question_text": "Which element has the chemical symbol 'Na'?",
+        "option_a": "Sodium",
+        "option_b": "Nitrogen",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the tallest mountain in the world?",
+        "option_a": "Mount Kilimanjaro",
+        "option_b": "Mount Everest",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the primary source of energy for the Earth's climate?",
+        "option_a": "The Moon",
+        "option_b": "The Sun",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the currency of Japan?",
+        "option_a": "Yuan",
+        "option_b": "Yen",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who is known as the 'Father of Computers'?",
+        "option_a": "Charles Babbage",
+        "option_b": "Alan Turing",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the chemical formula for water?",
+        "option_a": "H2O",
+        "option_b": "O2",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the fastest land animal?",
+        "option_a": "Cheetah",
+        "option_b": "Lion",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who was the first President of the United States?",
+        "option_a": "Thomas Jefferson",
+        "option_b": "George Washington",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the main component of the sun?",
+        "option_a": "Helium",
+        "option_b": "Hydrogen",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the hardest mineral on the Mohs scale?",
+        "option_a": "Talc",
+        "option_b": "Diamond",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who painted the ceiling of the Sistine Chapel?",
+        "option_a": "Michelangelo",
+        "option_b": "Leonardo da Vinci",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the largest country by land area?",
+        "option_a": "Canada",
+        "option_b": "Russia",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which planet is closest to the sun?",
+        "option_a": "Venus",
+        "option_b": "Mercury",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the capital of Italy?",
+        "option_a": "Rome",
+        "option_b": "Venice",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who developed the theory of relativity?",
+        "option_a": "Isaac Newton",
+        "option_b": "Albert Einstein",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the smallest ocean in the world?",
+        "option_a": "Indian Ocean",
+        "option_b": "Arctic Ocean",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which planet is known for its rings?",
+        "option_a": "Neptune",
+        "option_b": "Saturn",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the chemical symbol for gold?",
+        "option_a": "Au",
+        "option_b": "Ag",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who was the first woman to win a Nobel Prize?",
+        "option_a": "Marie Curie",
+        "option_b": "Rosalind Franklin",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the largest organ in the human body?",
+        "option_a": "Liver",
+        "option_b": "Skin",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which country is known as the Land of the Rising Sun?",
+        "option_a": "China",
+        "option_b": "Japan",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the primary gas found in the Earth's atmosphere?",
+        "option_a": "Oxygen",
+        "option_b": "Nitrogen",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who wrote the play 'Romeo and Juliet'?",
+        "option_a": "William Shakespeare",
+        "option_b": "Christopher Marlowe",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the main ingredient in traditional Japanese miso soup?",
+        "option_a": "Soybean paste",
+        "option_b": "Rice",
+        "answer": "A"
+    },
+    {
+        "question_text": "Which continent is the Sahara Desert located on?",
+        "option_a": "Asia",
+        "option_b": "Africa",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the primary function of red blood cells?",
+        "option_a": "Transport oxygen",
+        "option_b": "Fight infection",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who is known for developing the laws of motion?",
+        "option_a": "Galileo Galilei",
+        "option_b": "Isaac Newton",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the most abundant gas in the Earth's atmosphere?",
+        "option_a": "Oxygen",
+        "option_b": "Nitrogen",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who wrote the novel 'Moby-Dick'?",
+        "option_a": "Herman Melville",
+        "option_b": "Mark Twain",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the capital of Australia?",
+        "option_a": "Sydney",
+        "option_b": "Canberra",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which element has the atomic number 1?",
+        "option_a": "Helium",
+        "option_b": "Hydrogen",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the tallest building in the world?",
+        "option_a": "Shanghai Tower",
+        "option_b": "Burj Khalifa",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the largest planet in our solar system?",
+        "option_a": "Jupiter",
+        "option_b": "Saturn",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who wrote the play 'Hamlet'?",
+        "option_a": "William Shakespeare",
+        "option_b": "John Milton",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the smallest planet in our solar system?",
+        "option_a": "Mercury",
+        "option_b": "Pluto",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who was the first person to reach the South Pole?",
+        "option_a": "Robert Falcon Scott",
+        "option_b": "Roald Amundsen",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which element has the chemical symbol 'Fe'?",
+        "option_a": "Fluorine",
+        "option_b": "Iron",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the longest river in the world?",
+        "option_a": "Amazon River",
+        "option_b": "Nile River",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who developed the theory of evolution?",
+        "option_a": "Jean-Baptiste Lamarck",
+        "option_b": "Charles Darwin",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the capital of Egypt?",
+        "option_a": "Cairo",
+        "option_b": "Alexandria",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the largest ocean on Earth?",
+        "option_a": "Atlantic Ocean",
+        "option_b": "Pacific Ocean",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which planet is known as the Earth's twin?",
+        "option_a": "Venus",
+        "option_b": "Mars",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the primary ingredient in hummus?",
+        "option_a": "Lentils",
+        "option_b": "Chickpeas",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who discovered America in 1492?",
+        "option_a": "Leif Erikson",
+        "option_b": "Christopher Columbus",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the main language spoken in Brazil?",
+        "option_a": "Spanish",
+        "option_b": "Portuguese",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the main ingredient in traditional Italian pesto?",
+        "option_a": "Basil",
+        "option_b": "Cilantro",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the capital of China?",
+        "option_a": "Shanghai",
+        "option_b": "Beijing",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which element has the chemical symbol 'C'?",
+        "option_a": "Calcium",
+        "option_b": "Carbon",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the hardest rock on Earth?",
+        "option_a": "Granite",
+        "option_b": "Diamond",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who is known as the 'Queen of Soul'?",
+        "option_a": "Aretha Franklin",
+        "option_b": "Whitney Houston",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the primary component of the Earth's core?",
+        "option_a": "Nickel",
+        "option_b": "Iron",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the capital of Russia?",
+        "option_a": "Moscow",
+        "option_b": "Saint Petersburg",
+        "answer": "A"
+    },
+    {
+        "question_text": "Who painted 'Starry Night'?",
+        "option_a": "Pablo Picasso",
+        "option_b": "Vincent van Gogh",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the largest continent?",
+        "option_a": "Africa",
+        "option_b": "Asia",
+        "answer": "B"
+    },
+    {
+        "question_text": "What is the capital of Spain?",
+        "option_a": "Barcelona",
+        "option_b": "Madrid",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who wrote 'Pride and Prejudice'?",
+        "option_a": "Charlotte Bronte",
+        "option_b": "Jane Austen",
+        "answer": "B"
+    },
+    {
+        "question_text": "Which planet is known as the Earth's twin?",
+        "option_a": "Venus",
+        "option_b": "Mars",
+        "answer": "A"
+    },
+    {
+        "question_text": "What is the tallest animal in the world?",
+        "option_a": "Elephant",
+        "option_b": "Giraffe",
+        "answer": "B"
+    },
+    {
+        "question_text": "Who invented the telephone?",
+        "option_a": "Alexander Graham Bell",
+        "option_b": "Thomas Edison",
+        "answer": "A"
+    },
+    {
+        "question_text": "Which planet is known for having a Great Red Spot?",
+        "option_a": "Mars",
+        "option_b": "Jupiter",
+        "answer": "B"
+    }
+]

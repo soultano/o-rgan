@@ -1,20 +1,23 @@
- 
- .category{
+ /* Asosiy category konteyneri */
+.category {
     max-width: 100%;
- height: 100vh;
-background-image: url("../../assets/imgs/img_kategory.png");
-background-size: cover;
-background-repeat: no-repeat;
-
+    height: 100vh;
+    background-image: url("../../assets/imgs/img_kategory.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-.category__username{
 
-text-align: center;
-font-size: x-large;
-padding-top: 20px;
-padding-bottom: 40px;
+/* Foydalanuvchi nomi */
+.category__username {
+    text-align: center;
+    font-size: x-large;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
-.category__list{
+
+/* Kategoriyalar ro'yxati konteyneri */
+.category__list {
     margin: 0;
     padding: 0;
     display: flex;
@@ -22,41 +25,59 @@ padding-bottom: 40px;
     align-items: center;
     list-style: none;
     flex-wrap: wrap;
-
-
 }
 
-.category__item{
-width: 100%;
-max-width: 100px;
-height: 100px;
-margin: 10px;
-background-image: url("../../assets/imgs/Nothing.png");
-background-size: cover;
-background-repeat: no-repeat;
-border-radius: 20px;
-opacity: 0.8;
+/* Har bir kategoriya elementi */
+.category__item {
+    width: 100%;
+    max-width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-image: url("../../assets/imgs/Nothing.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    opacity: 0.8;
 }
 
-.category__item:nth-child(1){
-background-image: url("../../assets/imgs/IT.png");
-opacity:  1;
-
+/* Har bir kategoriya elementi rasmlari */
+.category__item:nth-child(1) {
+    background-image: url("../../assets/imgs/IT.png");
+    opacity: 1;
 }
-.category__item:nth-child(2){
-   background-image: url("../../assets/imgs/IQ.png");
-   opacity:  1;    
- }
 
-.category__IT{
+.category__item:nth-child(2) {
+    background-image: url("../../assets/imgs/IQ.png");
+    opacity: 1;
+}
+
+/* IT kategoriyasining Link elementi */
+.category__IT, .category__IQ {
     display: block;
-width: 100%;
-height: 100%;
+    width: 100%;
+    height: 100%;
 }
 
-.category__IQ{
-    display: block;
-width: 100%;
-height: 100%;
+/* Yo'nalishlar paneli ro'yxati */
+.PainPort__list {
+    position: absolute;
+    bottom: 10px;
+    right: calc(1%);
+    left: calc(1%);
+    padding: 10px;
+}
 
+/* Har bir yo'nalish elementi */
+.PainPort__item {
+    display: block;
+    width: 32%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    background: #0f6fe4 !important;
+    color: #dbd2d2;
+    box-shadow: 8px 8px 1px 1px rgba(0, 0, 255, .2);
+    opacity: 0.8;
 }
